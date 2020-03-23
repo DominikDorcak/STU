@@ -1,0 +1,29 @@
+                                               player_url    short_name  \
+count                                               18278         18278   
+unique                                              18278         17354   
+top     https://sofifa.com/player/213013/frank-acheamp...  J. Rodríguez   
+freq                                                    1            11   
+
+         long_name         dob nationality               club  \
+count        18278       18278       18278              18278   
+unique       18218        6142         162                698   
+top     Liam Kelly  1992-02-29     England  Tottenham Hotspur   
+freq             3         113        1667                 33   
+
+       player_positions preferred_foot      work_rate body_type real_face  \
+count             18278          18278          18278     18278     18278   
+unique              643              2              9        10         2   
+top                  CB          Right  Medium/Medium    Normal        No   
+freq               2322          13960           9875     10750     16310   
+
+       player_tags team_position loaned_from      joined nation_position  \
+count         1499         18038        1048       16990            1126   
+unique          83            29         316        1760              26   
+top      #Strength           SUB    Sassuolo  2019-07-01             SUB   
+freq           514          7820          17        1465             587   
+
+        player_traits  
+count            7566  
+unique            921  
+top     Early Crosser  
+freq              501  
