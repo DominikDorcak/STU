@@ -1,29 +1,17 @@
-                                               player_url    short_name  \
-count                                               18278         18278   
-unique                                              18278         17354   
-top     https://sofifa.com/player/213013/frank-acheamp...  J. Rodríguez   
-freq                                                    1            11   
+       short_name   long_name nationality     club player_positions  \
+count       16242       16242       16242    16242            16242   
+unique      15481       16197         161      696              642   
+top      Paulinho  Ben Davies     England  Arsenal               CB   
+freq            9           2        1497       30             2322   
 
-         long_name         dob nationality               club  \
-count        18278       18278       18278              18278   
-unique       18218        6142         162                698   
-top     Liam Kelly  1992-02-29     England  Tottenham Hotspur   
-freq             3         113        1667                 33   
+       preferred_foot      work_rate body_type real_face player_tags  \
+count           16242          16242     16242     16242        1499   
+unique              2              9         9         2          83   
+top             Right  Medium/Medium    Normal        No   #Strength   
+freq            12144           7839      9293     14451         514   
 
-       player_positions preferred_foot      work_rate body_type real_face  \
-count             18278          18278          18278     18278     18278   
-unique              643              2              9        10         2   
-top                  CB          Right  Medium/Medium    Normal        No   
-freq               2322          13960           9875     10750     16310   
-
-       player_tags team_position loaned_from      joined nation_position  \
-count         1499         18038        1048       16990            1126   
-unique          83            29         316        1760              26   
-top      #Strength           SUB    Sassuolo  2019-07-01             SUB   
-freq           514          7820          17        1465             587   
-
-        player_traits  
-count            7566  
-unique            921  
-top     Early Crosser  
-freq              501  
+       team_position loaned_from      joined nation_position  player_traits  
+count          16042         955       15087             979           6902  
+unique            28         308        1660              25            840  
+top              SUB    Sassuolo  2019-07-01             SUB  Early Crosser  
+freq            6892          17        1319             489            501  
